@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cappuccino</string>
+    <string name="head">Book a Cappucinno</string>
+    <string name="topping">Toppings:-</string>
+    <string name="cream">Whip Cream</string>
+    <string name="choco">Chocolate</string>
+    <string name="amount">Amount = Rs.50</string>
+    <string name="name">Enter your name</string>
+    <string name="Order">Order</string>
+</resources>
